@@ -1,4 +1,9 @@
 # ESG Report Greenwashing Detector
+BTech CSE CORE B, 4th Year
+KABIR SHARMA (RA2211003030071)
+JOBSON K JOBY (RA2211003030107)
+UTKARSH GUPTA (RA2211003030116)
+HARSH TIWARI (RA2211003030079)
 
 A multi-engine NLP pipeline that analyzes corporate ESG / BRSR reports and produces a **composite greenwashing risk score** by combining lexicon-based analysis, ClimateBERT transformer models, and LLM-powered scrutiny.
 
