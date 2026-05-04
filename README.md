@@ -1,8 +1,8 @@
 # ESG Report Greenwashing Detector
 ---
-SRM Institute of Science and Technology
-BTech CSE CORE B, 4th Year
-BT26COREB007
+SRM Institute of Science and Technology <br/>
+BTech CSE CORE B, 4th Year <br/>
+Batch ID: BT26COREB007
 
 - KABIR SHARMA (RA2211003030071)
 
